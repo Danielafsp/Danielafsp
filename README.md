@@ -20,6 +20,13 @@ HTML · CSS · JavaScript
 React
 Git & GitHub
 
+### 🔧 Tools & Technologies
+![HTML](https://img.shields.io/badge/HTML5-learning-orange)
+![CSS](https://img.shields.io/badge/CSS3-learning-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow)
+![React](https://img.shields.io/badge/React-learning-61DAFB)
+![Git](https://img.shields.io/badge/Git-learning-red)
+
 ## 🧠 How I approach learning
 I believe in learning by doing, making mistakes, refactoring, and building again. 
 One commit at a time.
