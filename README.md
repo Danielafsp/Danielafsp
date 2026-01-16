@@ -21,8 +21,8 @@ React
 Git & GitHub
 
 ### 🔧 Tools & Technologies
-![HTML](https://img.shields.io/badge/HTML5-learning-orange)
-![CSS](https://img.shields.io/badge/CSS3-learning-blue)
+![HTML](https://img.shields.io/badge/HTML)
+![CSS](https://img.shields.io/badge/CSS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-learning-yellow)
 ![React](https://img.shields.io/badge/React-learning-61DAFB)
 ![Git](https://img.shields.io/badge/Git-learning-red)
